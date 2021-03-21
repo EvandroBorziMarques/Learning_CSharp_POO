@@ -1,0 +1,6 @@
+C:\Users\marqu\Documents\GitHub\Learning_CSharp_POO\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+C:\Users\marqu\Documents\GitHub\Learning_CSharp_POO\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
+C:\Users\marqu\Documents\GitHub\Learning_CSharp_POO\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
+C:\Users\marqu\Documents\GitHub\Learning_CSharp_POO\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\GitHub\Learning_CSharp_POO\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
+C:\Users\marqu\Documents\GitHub\Learning_CSharp_POO\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb
